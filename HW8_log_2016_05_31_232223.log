@@ -1,0 +1,7 @@
+2016-05-31 23:27:50 INFO::# OZKAN EMRE OZDEMIR # HOMEWORK 8 # 
+ The Adjusted R-squared of the linear model was calculated as 0.0906336204558106 
+ , which is very low. However, when we check the Mean Standard Error of the linear model, 
+ MSE = 0.00550583481014612 . This value tells us  how the mean varies with different reviwes measuring the same rating. 
+  It should be noted that the MSE decreases as sample size increase therefore we have a very low MSE value 
+ In addition the Mean Absolute Percentage Error (MAPE) is obtained as 6.70123649144701 
+ # END #
